@@ -18,3 +18,6 @@ For the portfolio assignment, you will need to do the following additional steps
 9. Upload the post to your data science portfolio webpage to show off your work!
 
 
+## How to run
+Activate the course environment and launch VS Code from it: `conda activate earth-analytics-python`, then `code .`
+
